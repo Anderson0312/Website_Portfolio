@@ -1,0 +1,12 @@
+
+
+.colorblack{
+    color: black;
+}
+
+.imgprofile {
+    width: 270px;
+    height: 270px;
+    border: 1px solid rgba(128, 128, 128, 0.658);
+    box-shadow: .3rem .3rem 2rem 0.25rem rgba(128, 128, 128, 0.562);
+}
